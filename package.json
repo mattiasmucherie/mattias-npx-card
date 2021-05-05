@@ -1,7 +1,7 @@
 {
-  "name": "@bnb/card",
+  "name": "mattiasmucherie",
   "version": "1.6.0",
-  "description": "A personal card for Tierney Cyren (@bitandbang)",
+  "description": "A personal card for Mattias Mucherie",
   "main": "/bin/card.js",
   "bin": {
     "bitandbang": "./bin/card.js"
@@ -10,7 +10,7 @@
     "type": "git",
     "url": "git+https://github.com/bnb/bitandbang.git"
   },
-  "homepage": "https://bnb.im",
+  "homepage": "https://mattiasmucherie.com",
   "scripts": {
     "prepublish": "npm run build",
     "build": "node build.js",
@@ -26,7 +26,7 @@
     "npx card",
     "business card"
   ],
-  "author": "Tierney Cyren <hello@bnb.im> (http://bnb.im)",
+  "author": "Mattias Mucherie <mattias.mucherie@gmail.com> (http://mattiasmucherie.com)",
   "license": "MIT",
   "files": [
     "bin/card.js",
@@ -36,9 +36,6 @@
     "boxen": "^2.1.0",
     "chalk": "^2.4.1",
     "standard": "^12.0.1"
-  },
-  "bugs": {
-    "url": "https://github.com/bnb/bitandbang/issues"
   },
   "dependencies": {},
   "publishConfig": {

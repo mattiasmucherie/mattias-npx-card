@@ -6,3 +6,5 @@ It's me, Mattias!
 ```
 npx mattiasmucherie
 ```
+
+Inspired by [bnb](https://github.com/bnb/bitandbang)

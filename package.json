@@ -1,6 +1,6 @@
 {
   "name": "mattiasmucherie",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A personal card for Mattias Mucherie",
   "main": "/bin/card.js",
   "bin": {
